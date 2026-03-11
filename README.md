@@ -6,13 +6,20 @@ Exploratory Data Analysis on the **2019 World Happiness Report** dataset coverin
 
 ## 📊 Charts
 
-| Chart | What it shows |
-|-------|--------------|
-| `chart1.png` | Top 15 happiest vs Bottom 15 countries |
-| `chart2.png` | Which factors correlate most with happiness |
-| `chart3.png` | GDP vs Happiness bubble scatter |
-| `chart4.png` | Average happiness score by world region |
-| `chart5.png` | Full feature correlation heatmap |
+### 🏆 Top 15 vs Bottom 15 Countries
+![chart1](chart1.png)
+
+### 📊 What Drives Happiness?
+![chart2](chart2.png)
+
+### 💰 GDP vs Happiness
+![chart3](chart3.png)
+
+### 🌏 Happiness by Region
+![chart4](chart4.png)
+
+### 🔥 Feature Correlation Heatmap
+![chart5](chart5.png)
 
 ---
 
@@ -34,21 +41,6 @@ Exploratory Data Analysis on the **2019 World Happiness Report** dataset coverin
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-orange?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Heatmap-4c72b0?style=flat-square)
 ![Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=flat-square&logo=googlecolab)
-
----
-
-## 📁 Files
-
-```
-world-happiness-eda/
-├── world_happiness_eda.ipynb   ← Full notebook with all 9 cells
-├── chart1.png
-├── chart2.png
-├── chart3.png
-├── chart4.png
-├── chart5.png
-└── README.md
-```
 
 ---
 
